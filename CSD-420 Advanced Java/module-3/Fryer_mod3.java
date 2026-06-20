@@ -1,3 +1,9 @@
+/*
+    Daniel Fryer
+    Mod 3
+    6/20/2026
+*/
+
 import java.util.ArrayList;
 import java.util.Random;
 
